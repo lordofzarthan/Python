@@ -11,6 +11,4 @@ Your task is to perform an initial data and exploratory analysis of some of thei
 Data
 Open source data from Instacart and a customer data set created for the purpose of this project.
 
-[Customers Data Set]
 
-“The Instacart Online Grocery Shopping Dataset 2017”
